@@ -1,2 +1,2 @@
-hello world
-another line
+A readme file.
+Another line.
